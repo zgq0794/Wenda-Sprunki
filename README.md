@@ -1,4 +1,4 @@
-# Wenda Sprunki[https://wenda.im](https://wenda.im "Describe Wenda, draw your Wenda, love Wenda")
+# [Wenda Sprunki](https://wenda.im "Describe Wenda, draw your Wenda, love Wenda")
 Wenda Sprunki
 
 ## What is Wenda?
