@@ -31,7 +31,7 @@ Wenda's voice is characterized by its cheerful and lively tone, which adds to he
 
 ## Overview of the Website Content
 
-This website, **Wenda.im**, is dedicated to celebrating the enchanting world of Wenda Sprunki. It provides fans with a comprehensive overview of Wenda's character, her friends, and the various features of the Sprunki Incredibox game. The content includes:
+This website, [https://wenda.im](https://wenda.im "Describe Wenda, draw your Wenda, love Wenda"), is dedicated to celebrating the enchanting world of Wenda Sprunki. It provides fans with a comprehensive overview of Wenda's character, her friends, and the various features of the Sprunki Incredibox game. The content includes:
 
 - **Wenda's Introduction**
 
