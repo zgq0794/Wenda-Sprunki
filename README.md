@@ -40,7 +40,7 @@ This website, [https://wenda.im](https://wenda.im "Describe Wenda, draw your Wen
 - **Wenda's Friends**: Information about Wenda's companions in the Sprunki universe.
 
 - **Gameplay Tips**: Helpful advice for new and experienced players on how to create music.
-- **Wenda Vedios**: Some interesting videos by Wenda
+- **Wenda Videos**: Some interesting Videos by Wenda
 
 - **Trivia**: Fun and engaging facts related to Wenda and the Sprunki Incredibox game.
 
